@@ -2,9 +2,9 @@
   "error": false,
   "isNewApp":false,
   "app_pkg": "com.maxthon.downloader.videodownloader.videoder.player.allvideodownloader",
-   "fbBannr": "5386100968143816_5386108921476354",
-  "fbInter": "5386100968143816_5386109384809641",
-  "fbNative": "5386100968143816_5386109914809588",
+  "fbBannr": "YOUR_PLACEMENT_ID",
+  "fbInter": "YOUR_PLACEMENT_ID",
+  "fbNative": "YOUR_PLACEMENT_ID",
   "fbNativeBnnr": "YOUR_PLACEMENT_ID",
   "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
   "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
@@ -17,5 +17,5 @@
   "adStatus": "admob",
   "loadMore":true,
   "adNativeCount":15,
-  "adMobTime":40
+  "adMobTime":30
 }
