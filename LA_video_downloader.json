@@ -1,0 +1,21 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.maxthon.downloader.videodownloader.videoder.player.allvideodownloader",
+   "fbBannr": "5386100968143816_5386108921476354",
+  "fbInter": "5386100968143816_5386109384809641",
+  "fbNative": "5386100968143816_5386109914809588",
+  "fbNativeBnnr": "YOUR_PLACEMENT_ID",
+  "AdmobBannr": "ca-app-pub-9449995187191149/3142737342",
+  "AdmobInter": "ca-app-pub-9449995187191149/7699299142",
+  "AdmobInterSplash":"",
+  "AdmobNative": "ca-app-pub-9449995187191149/8043710239",
+  "AdmobOpenAds": "ca-app-pub-9449995187191149/5577328992",
+  "admob_pub_id": "pub-3940256099942544",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "adType": "fb",
+  "adStatus": "admob",
+  "loadMore":true,
+  "adNativeCount":15,
+  "adMobTime":40
+}
